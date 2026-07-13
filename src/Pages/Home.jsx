@@ -3,6 +3,8 @@ import MovieCard from "../Components/MovieCard.jsx";
 import {searchMovies, getPopularMovies} from "../services/api.js"
 import '../css/Home.css'
 
+//A context will allow state to be globally available to anything that's within the provided context.
+
 function Home() {
   const [searchQuery, setSearchQuery] = useState("");
   const [movies, setMovies] = useState([]);
