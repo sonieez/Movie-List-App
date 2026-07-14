@@ -20,6 +20,10 @@ A modern React application that lets users discover popular movies, search for t
 * TMDB API (or the API you used)
 
 ## 🔗 To view or use my project: 
+https://movie-list-app-gamma.vercel.app/
 
 ## 📽️ How it looks:
+
+![Movie List App Demo](screenrecord.gif)
+
 
