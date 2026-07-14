@@ -1,16 +1,25 @@
-# React + Vite
+# 🎬 Movie List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern React application that lets users discover popular movies, search for titles, and save their favorite movies in a personalized favorites list.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* 🔥 Browse popular movies
+* 🔍 Search movies by title
+* ❤️ Add or remove movies from Favorites
+* 💾 Favorites are saved in Local Storage
+* 📱 Responsive design
+* ⚡ Fast and user-friendly interface
 
-## React Compiler
+## 🛠️ Built With
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React
+* JavaScript (ES6+)
+* CSS
+* Vite
+* TMDB API (or the API you used)
 
-## Expanding the Oxlint configuration
+## 🔗 To view or use my project: 
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## 📽️ How it looks:
+
